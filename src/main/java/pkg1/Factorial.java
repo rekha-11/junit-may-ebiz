@@ -2,7 +2,8 @@ package pkg1;
 
 public class Factorial {
 	
-	
+	//imported from Rekha
+	//this line is contributed by Shiva
 	
 public int fact(int num) {
 		
